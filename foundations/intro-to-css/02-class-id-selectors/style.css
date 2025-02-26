@@ -1,0 +1,19 @@
+.pass { 
+    font-size: 19px;
+    background-color: lightcoral;
+}
+.pass#num3 {
+    font-size: 30px;
+}
+
+#num2 {
+    font-size: 35px;
+    color: blue;
+    font-weight: 600;
+}
+
+#num4{
+    background-color: lightgreen;
+    font-size: 25px;
+    font-weight: 700;
+}
